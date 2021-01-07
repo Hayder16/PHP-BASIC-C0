@@ -4,9 +4,9 @@
 
 <?php
 $leeftijd = 17;
-echo $leeftijd;
+echo "Ik ben " . $leeftijd . "<br>";
 $melkprijs = 0.98;
-echo $melkprijs;
+echo "De waarde van melk hier is: " . $melkprijs . "<br>";
 ?>
 
 </body>
