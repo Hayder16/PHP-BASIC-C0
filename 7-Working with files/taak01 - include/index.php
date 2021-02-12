@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
+
+<head></head>
+
 <body>
 
-<?php
-
-
-
-?>
+    <div class="menu">
+        <?php include 'menu.php'; ?>
+    </div>
 
 </body>
+
 </html>
